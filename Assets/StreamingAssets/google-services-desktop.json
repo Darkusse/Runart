@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "675923416024",
+    "project_id": "runart-63f6b",
+    "storage_bucket": "runart-63f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675923416024:android:0d749aef3f53c7452f98ad",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AR_APP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675923416024-3puh5sjc5hqmvbomisj2lsh6jj9bu2bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTmgE3ebbVVRTWErQsm3x6ML7jQJxhIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675923416024-3puh5sjc5hqmvbomisj2lsh6jj9bu2bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675923416024-isas6g9hnfot6h89khklbq4nc9bpg1g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.AR-APP"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675923416024:android:34c47482860abf662f98ad",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.FirebaseAuthTutorialStarterProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675923416024-3puh5sjc5hqmvbomisj2lsh6jj9bu2bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTmgE3ebbVVRTWErQsm3x6ML7jQJxhIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675923416024-3puh5sjc5hqmvbomisj2lsh6jj9bu2bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "675923416024-isas6g9hnfot6h89khklbq4nc9bpg1g3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.AR-APP"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
